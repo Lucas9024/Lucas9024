@@ -11,6 +11,6 @@ Sobre minhas habilidades e experiências:
 
 <div>
   <a href="https://github.com/Lucas9024">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas9024&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas9024&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas9024&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas9024&layout=compact&langs_count=7&theme=dark"/>
 </div>
