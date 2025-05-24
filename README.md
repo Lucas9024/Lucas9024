@@ -1,5 +1,5 @@
 ### Olá mundo!
-## Lucas Ferreira, programador, designer UX e UI e programador Frontend
+## Lucas Ferreira, programador front-end e designer UX / UI .
 
 Sobre minhas habilidades e experiências:
 
